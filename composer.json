@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^1.0",
+        "cboden/ratchet": "v0.4",
+        "pusher/pusher-php-server": "^7.0"
+    }
+}
